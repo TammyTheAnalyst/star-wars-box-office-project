@@ -34,9 +34,22 @@ Using real-world data, we compare films by year and revenue — and bring it all
 
 ## 🗂️ Folder Structure
 
-data/ – CSV files (raw + cleaned)
-images/ – Screenshots from GitHub, visuals, etc.
-visuals/ – Final charts, animated graphics, or videos
+star-wars-box-office-project/
+├── data/             ← Your CSV goes here (raw + cleaned)
+│   └── star_wars_box_office.csv
+│
+├── images/           ← Screenshots of:
+│   ├── GitHub repo setup
+│   ├── Excel cleaning
+│   └── Final visuals
+│
+├── visuals/          ← Exported charts, animations, or videos
+│   ├── star_wars_bar_chart.png
+│   └── animated_visual.mp4  (optional, if you make it 🔥)
+│
+├── README.md         ← Contains project overview, emojis, and progress
+
+
 
 ---
 
