@@ -32,6 +32,11 @@ Using real-world data, we compare films by year and revenue — and bring it all
 
 ---
 
+# Images/Screenshots
+
+- 5/4/2025 6:40 am
+- ![](https://github.com/TammyTheAnalyst/star-wars-box-office-project/blob/main/images/Screenshot%20(4686).png)
+
 ## 🗂️ Folder Structure
 
 star-wars-box-office-project/
