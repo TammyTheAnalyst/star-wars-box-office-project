@@ -1,6 +1,11 @@
-# 📽️ Star Wars Box Office Project 📽️
 
-✨ A galaxy of data, one saga at a time. ✨
+<div align="center">
+
+# 📽️ Star Wars Box Office Project 📽️ 
+ ✨*A galaxy of data, one saga at a time.* ✨
+
+</div>
+
 
 ## 🚀 Overview
 This project explores how each Star Wars movie performed at the worldwide box office. 
