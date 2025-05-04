@@ -65,5 +65,13 @@ star-wars-box-office-project/
 
 ---
 
+## 📚 Data Sources
+- [Box Office Mojo – Star Wars Franchise](https://www.boxofficemojo.com/franchise/fr3125251845/)
+- [The Numbers – Star Wars Franchise](https://www.the-numbers.com/movies/franchise/Star-Wars)
+- [Wikipedia – List of Star Wars Films](https://en.wikipedia.org/wiki/List_of_Star_Wars_films)
+
+
+---
+
 🎬 Stay tuned for an epic data experience worthy of the Force.
 
