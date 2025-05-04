@@ -1,6 +1,6 @@
-# 🌌 Star Wars Box Office Project
+# 📽️ Star Wars Box Office Project 📽️
 
-📊 A data storytelling adventure through the galaxy!
+✨ A galaxy of data, one saga at a time. ✨
 
 ## 🚀 Overview
 This project explores how each Star Wars movie performed at the worldwide box office. 
