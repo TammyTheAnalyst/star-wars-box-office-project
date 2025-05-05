@@ -9,50 +9,86 @@
 ---
 
 
-## 🚀 Overview
-This project explores how each Star Wars movie performed at the worldwide box office. 
+# 🌌 Star Wars Box Office Visualization
 
-Using real-world data, we compare films by year and revenue — and bring it all to life with visual power.
+🎬 *A long time ago in a galaxy not so far away...*  
+I built a Star Wars box office visualization — complete with animation, cinematic styling, and synced audio.
+
+This project was created in celebration of **May the 4th**, blending storytelling with data analytics.
+
+---
+
+## 📽 Preview
+
+![](https://github.com/TammyTheAnalyst/star-wars-box-office-project/blob/main/images/Screenshot%20(4687).png)
+
+### ▶️ Watch the Animated Chart with Music  
+![]()
 
 
 ---
 
+## 📊 Project Overview
 
-## 🛠️ Tools Used
-- 📁 Excel (for cleaning the data)
-- 📊 Tableau / Power BI / Python (for a 3D or animated visual)
-- 🗂️ GitHub (for documentation and version control)
+This project analyzes the **box office performance of Star Wars films** by comparing revenue and release year.  
+The goal was to identify how each film performed financially over time and bring the data to life through storytelling.
+
+---
+
+## 🧰 Tools Used
+
+- **Excel** for data cleanup and formatting  
+- **Tableau Public** for design, animation, and interactivity  
+- **OBS Studio** for recording and music syncing  
+- **GitHub** for version control and portfolio presentation  
 
 ---
 
-## 🧠 Objective
-- Load & clean Star Wars box office data
-- Visualize trends using interactive or animated charts
-- Deliver insights in a fun, dynamic, and cinematic way
+## 🖼 Visual Style
+
+- Star Jedi font for titles  
+- Black background for a space-themed look  
+- Custom bar colors inspired by main characters or film tones  
+- Audio synced to the bar animation for cinematic flair
 
 ---
+
+## 🧠 Skills Demonstrated
+
+- Data prep & cleaning  
+- Business intelligence & dashboard design  
+- Data storytelling  
+- Multimedia integration with OBS  
+- Public portfolio building  
+
+---
+
+## 📂 Folder Structure
+
 
 # Images/Screenshots
 
 - 5/4/2025 6:40 am
 - ![](https://github.com/TammyTheAnalyst/star-wars-box-office-project/blob/main/images/Screenshot%20(4686).png)
 
+---
+
 ## 🗂️ Folder Structure
 
 star-wars-box-office-project/
-├── data/             ← Your CSV goes here (raw + cleaned)
+├── data/            
 │   └── star_wars_box_office.csv
 │
-├── images/           ← Screenshots of:
+├── images/          
 │   ├── GitHub repo setup
 │   ├── Excel cleaning
 │   └── Final visuals
 │
-├── visuals/          ← Exported charts, animations, or videos
+├── visuals/         
 │   ├── star_wars_bar_chart.png
-│   └── animated_visual.mp4  (optional, if you make it 🔥)
+│   └── animated_visual.mp4 
 │
-├── README.md         ← Contains project overview, emojis, and progress
+├── README.md         
 
 
 
@@ -78,5 +114,11 @@ star-wars-box-office-project/
 
 ---
 
-🎬 Stay tuned for an epic data experience worthy of the Force.
+
+---
+
+## 💫 May the Fourth be with you.
+
+#StarWars #MayThe4thBeWithYou #DataViz #Tableau #GitHubProjects #DataAnalytics
+
 
