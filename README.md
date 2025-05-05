@@ -9,8 +9,6 @@
 ---
 
 
-# 🌌 Star Wars Box Office Visualization
-
 🎬 *A long time ago in a galaxy not so far away...*  
 I built a Star Wars box office visualization — complete with animation, cinematic styling, and synced audio.
 
@@ -23,7 +21,7 @@ This project was created in celebration of **May the 4th**, blending storytellin
 ![](https://github.com/TammyTheAnalyst/star-wars-box-office-project/blob/main/images/Screenshot%20(4687).png)
 
 ### ▶️ Watch the Animated Chart with Music  
-![]()
+![]( coming soon! )
 
 
 ---
@@ -62,8 +60,6 @@ The goal was to identify how each film performed financially over time and bring
 - Public portfolio building  
 
 ---
-
-## 📂 Folder Structure
 
 
 # Images/Screenshots
@@ -110,9 +106,6 @@ star-wars-box-office-project/
 - [Box Office Mojo – Star Wars Franchise](https://www.boxofficemojo.com/franchise/fr3125251845/)
 - [The Numbers – Star Wars Franchise](https://www.the-numbers.com/movies/franchise/Star-Wars)
 - [Wikipedia – List of Star Wars Films](https://en.wikipedia.org/wiki/List_of_Star_Wars_films)
-
-
----
 
 
 ---
