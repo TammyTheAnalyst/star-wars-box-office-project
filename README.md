@@ -10,6 +10,7 @@
 
 
 🎬 *A long time ago in a galaxy not so far away...*  
+
 I built a Star Wars box office visualization — complete with animation, cinematic styling, and synced audio.
 
 This project was created in celebration of **May the 4th**, blending storytelling with data analytics.
