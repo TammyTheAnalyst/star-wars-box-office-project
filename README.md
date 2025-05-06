@@ -23,6 +23,8 @@ This project was created in celebration of **May the 4th**, blending storytellin
 
 ### ▶️ Watch the Animated Chart with Music  
 
+> 📽️ *Right-click the image below and select “Open link in new tab” to play in browser.*
+
 [![Watch the animated chart](images/star_wars_box_office_chart.png)](https://github.com/TammyTheAnalyst/star-wars-box-office-project/raw/main/visuals/Star%20Wars%20Animated%20Chart%20With%20Music%20-%20Trim(2).mp4)
 
 
