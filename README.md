@@ -22,7 +22,7 @@ This project was created in celebration of **May the 4th**, blending storytellin
 ![](https://github.com/TammyTheAnalyst/star-wars-box-office-project/blob/main/images/Screenshot%20(4687).png)
 
 ### ▶️ Watch the Animated Chart with Music  
-![]( coming soon! )
+![](https://github.com/TammyTheAnalyst/star-wars-box-office-project/blob/main/visuals/Star%20Wars%20Animated%20Chart%20With%20Music%20-%20Trim(2).mp4)
 
 
 ---
